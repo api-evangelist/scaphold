@@ -1,0 +1,61 @@
+{
+    "name": "Scaphold",
+    "description": "A real-time GraphQL backend as a service. Build web, mobile, & IOT apps faster with React, Angular, Relay, and Apollo using our hosted data and integrations platform. Beats Firebase & Parse.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19925-scaphold.jpg",
+    "tags": [
+        "databases",
+        "graphql",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/scaphold\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Scaphold",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19925-scaphold.jpg",
+            "humanURL": "https:\/\/scaphold.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scaphold-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/scaphold.io\/#\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/scaphold-inc"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/scaphold.io\/#\/docs"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/scaphold-io"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/scaphold.io\/#\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/scapholddotio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/scaphold.io"
+        }
+    ]
+}
